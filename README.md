@@ -1,5 +1,5 @@
 # get-tacos
-A program designed to optimize Taco Bell orders.
+A program designed to optimize Taco Bell orders. Finds the cheapest possible way to get a product by doing substitutions on cheaper products. Also checks to see if making an item "Fresco" or "Supreme" will save money.
 
 How to use:
 You'll need python >= 2.7 and pip. If you don't have them go to their website and follow the listed install instructions.
