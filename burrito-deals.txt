@@ -1,0 +1,67 @@
+beefy-nacho-griller, ($1.79), beefy-fritos-burrito, ($1.25, orig $1.00) - difference: 0.54
+Add these things:  ['Red Strips']
+Remove these things:  ['Seasoned Rice', 'Fritos']
+Add Grilled
+
+
+power-menu-burrito-veggie, ($3.99), bean-burrito, ($2.84, orig $1.29) - difference: 1.15
+Add these things:  ['Black Beans', 'Romaine Lettuce', 'Guacamole', 'Pico De Gallo', 'Avocado Ranch Sauce']
+Remove these things:  ['Beans', 'Onions', 'Red Sauce', 'Tomatoes']
+
+
+cheesy-potato-burrito, ($2.69), beefy-fritos-burrito, ($1.9, orig $1.00) - difference: 0.79
+Add these things:  ['Reduced Fat Sour Cream', 'Potatoes']
+Remove these things:  ['Seasoned Rice', 'Fritos']
+
+
+power-menu-burrito, ($3.99), chipotle-chicken-loaded-griller, ($3.44, orig $1.79) - difference: 0.55
+Add these things:  ['Romaine Lettuce', 'Cheese', 'Guacamole', 'Pico De Gallo', 'Avocado Ranch Sauce']
+Remove these things:  ['Chipotle Sauce']
+
+
+black-bean-burrito+VEG, ($2.19), cheesy-bean-and-rice-burrito, ($1.7, orig $1.00) - difference: 0.49
+Add these things:  ['Black Beans', 'Red Sauce', '3 Cheese Blend']
+Remove these things:  ['Beans', 'Nacho Cheese Sauce', 'Creamy Jalapeo Sauce']
+
+
+power-menu-burrito-veggie+VEG, ($3.99), bean-burrito, ($2.84, orig $1.29) - difference: 1.15
+Add these things:  ['Black Beans', 'Romaine Lettuce', 'Guacamole', 'Pico De Gallo', 'Avocado Ranch Sauce']
+Remove these things:  ['Beans', 'Onions', 'Red Sauce', 'Tomatoes']
+
+
+quesarito, ($2.69), beefy-fritos-burrito, ($2.1, orig $1.00) - difference: 0.59
+Add these things:  ['Cheese', 'Reduced Fat Sour Cream', 'Chipotle Sauce']
+Remove these things:  ['Fritos']
+
+
+burrito-supreme, ($2.99), beefy-5-layer-burrito, ($2.49, orig $1.89) - difference: 0.5
+Add these things:  ['Lettuce', 'Onions', 'Tomatoes', 'Red Sauce']
+Remove these things:  ['Nacho Cheese Sauce']
+
+
+xxl-grilled-stuft-burrito, ($4.39), beefy-fritos-burrito, ($3.0, orig $1.00) - difference: 1.39
+Add these things:  ['Reduced Fat Sour Cream', 'Guacamole', 'Pico De Gallo', 'Beans', '3 Cheese Blend', 'Avocado Ranch Sauce']
+Remove these things:  ['Fritos', 'Nacho Cheese Sauce']
+Add Grilled
+
+
+7-layer-burrito+VEG, ($2.99), cheesy-bean-and-rice-burrito, ($2.8, orig $1.00) - difference: 0.19
+Add these things:  ['Lettuce', 'Tomatoes', 'Reduced Fat Sour Cream', 'Guacamole', '3 Cheese Blend']
+Remove these things:  ['Nacho Cheese Sauce', 'Creamy Jalapeo Sauce']
+
+
+7-layer-burrito, ($2.99), cheesy-bean-and-rice-burrito, ($2.8, orig $1.00) - difference: 0.19
+Add these things:  ['Lettuce', 'Tomatoes', 'Reduced Fat Sour Cream', 'Guacamole', '3 Cheese Blend']
+Remove these things:  ['Nacho Cheese Sauce', 'Creamy Jalapeo Sauce']
+
+
+black-bean-burrito, ($2.19), cheesy-bean-and-rice-burrito, ($1.7, orig $1.00) - difference: 0.49
+Add these things:  ['Black Beans', 'Red Sauce', '3 Cheese Blend']
+Remove these things:  ['Beans', 'Nacho Cheese Sauce', 'Creamy Jalapeo Sauce']
+
+
+combo-burrito, ($2.69), beefy-fritos-burrito, ($1.65, orig $1.00) - difference: 1.04
+Add these things:  ['Onions', 'Cheese', 'Beans', 'Red Sauce']
+Remove these things:  ['Seasoned Rice', 'Fritos', 'Nacho Cheese Sauce']
+
+
